@@ -5,9 +5,9 @@ https://ci3.googleusercontent.com/meips/ADKq_NbB3c9JFeLn1wrGmvZWGkZc-uHRbZ-pkEH4
 
 -
 # How Risks Were Rated
--###Likelihood describes how likely the event is to happen.
--(##) Impact describes how much harm the event could cause.
-Risks rated high in both areas should receive quick attention.
+- **Likelihood** Describes how likely the event is to happen.
+- **Impact** Describes how much harm the event could cause.
+- **Risk** Rated high in both areas should receive quick attention.
 
 # Priority Recommendation
 The organization should address phishing first because employees regularly receive texts and emails, and one successful attack could expose passwords, payroll information, or other sensitive data.
