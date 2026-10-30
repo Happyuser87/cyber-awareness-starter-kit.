@@ -1,7 +1,7 @@
 # Cyber Awareness Starter Kit
 A beginner-friendly cyber awareness project for a fictional workplace.
 # Purpose
-This project provides simple cybersecurity in a fitional warehouse or retail workplace.
+This project provides simple cybersecurity in a fictional warehouse or retail workplace.
 
 # Scenario
 An employee receives a test message asking them to scan a QR code and confirm payroll information. The message creates urgency and may be an attempt to steal login or personal information.
